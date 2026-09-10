@@ -26,6 +26,15 @@ location_filter:
     - "Australia"
     - "Canada"
 
+# -- Salary filter --
+# Minimum $100K (walk-away number); ideally $150K+. Only applies when
+# structured salary data exists on the posting (won't reject jobs with no
+# salary info, per the scanner's conservative default).
+salary_filter:
+  min: 100000
+  max: 0
+  currency: "USD"
+
 # -- Title filter --
 title_filter:
   positive:

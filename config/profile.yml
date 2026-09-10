@@ -53,10 +53,12 @@ narrative:
       hero_metric: "30% reduction in CAC, +15-20% YoY revenue growth"
 
 compensation:
-  # TODO (Jacqueline): fill in your real target range/minimum - left blank on purpose.
-  target_range: ""
+  # Ideally $150K+; open to roles as low as $100K if the scope/level is
+  # lighter and the role is an easier lift (e.g. lower seniority, lighter
+  # workload, better work-life balance).
+  target_range: "$150K+"
   currency: "USD"
-  minimum: ""
+  minimum: "$100K"
   location_flexibility: "Remote preferred (US); open to San Diego, CA on-site/hybrid"
 
 location:
