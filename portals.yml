@@ -1,0 +1,165 @@
+# Portal Scanner Configuration for Jacqueline Perry
+# Focus: performance/growth marketing, marketing ops, and adjacent operational
+# roles. Remote (US) or San Diego, CA. Bonus for non-profit/university/
+# government employers with good work-life balance.
+
+# -- Location filter --
+location_filter:
+  always_allow:
+    - "United States"
+    - "San Diego"
+  allow:
+    - "Remote"
+    - "United States"
+    - "USA"
+    - "San Diego"
+    - "California"
+  block:
+    - "India"
+    - "United Kingdom"
+    - "London"
+    - "Germany"
+    - "France"
+    - "Singapore"
+    - "Japan"
+    - "Brazil"
+    - "Australia"
+    - "Canada"
+
+# -- Title filter --
+title_filter:
+  positive:
+    - "Marketing Manager"
+    - "Marketing Director"
+    - "Head of Marketing"
+    - "VP Marketing"
+    - "Director of Marketing"
+    - "Performance Marketing"
+    - "Growth Marketing"
+    - "Paid Media"
+    - "Paid Search"
+    - "Paid Social"
+    - "Demand Generation"
+    - "Demand Gen"
+    - "Digital Marketing"
+    - "Brand Manager"
+    - "Product Marketing"
+    - "Marketing Operations"
+    - "RevOps"
+    - "Campaign Manager"
+    - "Media Strategy"
+    - "Marketing Strategy"
+    - "Community Development"
+    - "Program Manager"
+    - "Operations Manager"
+  negative:
+    - "word:Intern"
+    - "word:Interns"
+    - "Internship"
+    - "Junior"
+    - "Entry Level"
+    - "Sales Representative"
+    - "SDR"
+    - "Field Marketing Coordinator"
+  seniority_boost:
+    - "Senior"
+    - "Staff"
+    - "Principal"
+    - "Lead"
+    - "Head"
+    - "Director"
+    - "VP"
+
+search_queries:
+  - name: Ashby — Marketing/Growth
+    query: 'site:jobs.ashbyhq.com "Marketing Manager" OR "Growth Marketing" OR "Performance Marketing" OR "Marketing Director" remote'
+    enabled: true
+
+  - name: Greenhouse — Marketing/Growth
+    query: 'site:boards.greenhouse.io OR site:job-boards.greenhouse.io "Marketing Manager" OR "Performance Marketing" OR "Growth Marketing" OR "Director of Marketing" remote'
+    enabled: true
+
+  - name: Workable — Marketing/Growth
+    query: 'site:apply.workable.com "Marketing Manager" OR "Marketing Director" OR "Performance Marketing" remote'
+    enabled: true
+
+  - name: Lever — Marketing/Growth
+    query: 'site:jobs.lever.co "Marketing Manager" OR "Growth Marketing" OR "Performance Marketing" remote'
+    enabled: true
+
+  - name: LinkedIn — Marketing leadership, San Diego or Remote US
+    query: 'site:linkedin.com/jobs "Head of Marketing" OR "Director of Marketing" OR "VP Marketing" OR "Performance Marketing" San Diego OR remote'
+    enabled: true
+
+  - name: GovernmentJobs.com — San Diego marketing/comms/ops
+    query: 'site:governmentjobs.com "San Diego" "Marketing" OR "Communications" OR "Community Development" OR "Program Manager"'
+    enabled: true
+
+  - name: Higher Ed — Marketing/Comms roles (university, work-life balance)
+    query: '(site:.edu OR "university") "Marketing Manager" OR "Communications Manager" OR "Program Manager" remote OR "San Diego"'
+    enabled: true
+
+  - name: Non-profit — Marketing/Comms/Ops leadership
+    query: '"non-profit" OR "nonprofit" "Director of Marketing" OR "Head of Marketing" OR "Communications Director" remote OR "San Diego"'
+    enabled: true
+
+# -- Tracked companies --
+# Seeded from Jacqueline's saved job listings (2026-09-10). Verify each
+# careers_url/provider on first scan — a couple are best-guess from the
+# saved job link and may need adjusting in `doctor`/`scan` output.
+tracked_companies:
+  - name: PracticeTek
+    careers_url: https://apply.workable.com/practicetek
+    enabled: true
+
+  - name: Housecall Pro
+    careers_url: https://www.housecallpro.com/careers/open-positions/
+    enabled: true
+
+  - name: Deloitte
+    careers_url: https://apply.deloitte.com/en_US/careers/SearchJobs
+    enabled: true
+
+  - name: Docker
+    careers_url: https://www.docker.com/career-openings/
+    enabled: true
+
+  - name: Dropbox
+    careers_url: https://www.dropbox.jobs/en/search-results
+    enabled: true
+
+  - name: Jiga
+    careers_url: https://jobs.ashbyhq.com/jiga
+    enabled: true
+
+  - name: Thumbtack
+    careers_url: https://careers.thumbtack.com/jobs
+    enabled: true
+
+  - name: Vanta
+    careers_url: https://jobs.ashbyhq.com/vanta
+    enabled: true
+
+  - name: Thermo Fisher Scientific
+    careers_url: https://jobs.thermofisher.com/global/en/search-results
+    enabled: true
+
+  - name: Stripe
+    careers_url: https://stripe.com/jobs/search
+    enabled: true
+
+  - name: City of San Diego
+    careers_url: https://www.governmentjobs.com/careers/sandiego
+    enabled: true
+
+  - name: DuckDuckGo
+    careers_url: https://jobs.ashbyhq.com/duck-duck-go
+    enabled: true
+
+  - name: Petco
+    careers_url: https://careers.petco.com/
+    enabled: true
+
+  - name: UC San Diego
+    careers_url: https://employment.ucsd.edu/
+    enabled: true

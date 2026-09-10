@@ -1,0 +1,89 @@
+# Career-Ops Profile Configuration
+# Single source of truth for personal data across all modes.
+
+candidate:
+  full_name: "Jacqueline Perry"
+  email: "jacquelinek.perry@gmail.com"
+  phone: "510-565-2663"
+  location: "San Diego, CA"
+  linkedin: "linkedin.com/in/jacquelinekperry"
+
+target_roles:
+  # North Star roles
+  primary:
+    - "Head of Marketing"
+    - "Director of Marketing"
+    - "VP Marketing"
+    - "Director of Performance Marketing"
+  archetypes:
+    - name: "Performance / Growth Marketing Leader"
+      level: "Director/Head/VP"
+      fit: "primary"
+    - name: "Paid Media / Demand Gen Manager"
+      level: "Senior/Manager"
+      fit: "secondary"
+    - name: "Marketing Operations / RevOps"
+      level: "Manager/Director"
+      fit: "secondary"
+    # Open to non-marketing operational roles, especially at mission-driven
+    # or public-sector employers (non-profit, university, government).
+    - name: "Operations / Program Manager"
+      level: "Manager/Director"
+      fit: "adjacent"
+
+narrative:
+  headline: "Performance & growth marketing leader, 10+ years scaling paid media, lifecycle, and demand gen programs"
+  # TODO (Jacqueline): add your own 1-2 sentence exit/career story here.
+  exit_story: ""
+  superpowers:
+    - "Scaling ROAS across paid search, paid social, and emerging AI ad channels"
+    - "Building lifecycle/CRM automation programs that drive incremental revenue"
+    - "Owning multi-million-dollar budgets and P&L across a brand portfolio"
+    - "Standing up reporting/attribution systems from scratch"
+    - "Cross-functional leadership across marketing, sales, ops, and finance"
+  proof_points:
+    - name: "Intermountain Home Services lifecycle framework"
+      url: ""
+      hero_metric: "$500K incremental assisted revenue in 6 months"
+    - name: "Intermountain Home Services demand gen expansion"
+      url: ""
+      hero_metric: "+16.7% YoY lead volume growth"
+    - name: "Vivint paid search efficiency program"
+      url: ""
+      hero_metric: "30% reduction in CAC, +15-20% YoY revenue growth"
+
+compensation:
+  # TODO (Jacqueline): fill in your real target range/minimum - left blank on purpose.
+  target_range: ""
+  currency: "USD"
+  minimum: ""
+  location_flexibility: "Remote preferred (US); open to San Diego, CA on-site/hybrid"
+
+location:
+  country: "United States"
+  city: "San Diego"
+  timezone: "PST"
+  visa_status: "No sponsorship needed"
+  authorized_in: ["United States"]
+  needs_sponsorship: false
+
+language:
+  output: en
+
+spend_tier: standard
+
+cv:
+  output_format: "html"
+
+cover_letter:
+  notice_period_days: 30
+  primary_domain: "performance marketing / growth marketing"
+
+# ── Culture Screen ───────────────────────────────────────────────────────
+# Reflects stated preference for good work-life balance, especially at
+# mission-driven or public-sector employers.
+culture_screen:
+  require:
+    - "Reasonable work-life balance / non-toxic pace"
+    - "Non-profit, university, or government mission (bonus, not required)"
+  deprioritize_if_absent: false

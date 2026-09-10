@@ -1,0 +1,60 @@
+## Pending
+
+- [ ] https://apply.workable.com/practicetek/j/3176C1E76F/ | PracticeTek
+- [ ] https://www.housecallpro.com/careers/open-positions/?gh_jid=6016382004 | Housecall Pro
+- [ ] https://apply.deloitte.com/en_US/careers/JobDetail/Campaign-Marketer-Manager-Strategy-Transactions/362586 | Deloitte | Campaign Marketer Manager, Strategy & Transactions
+- [ ] https://www.docker.com/career-openings/?at_exp=DO106.A&ashby_jid=801b4de3-c3cf-41d7-a1ff-e39f7a4d3838 | Docker
+- [ ] https://www.dropbox.jobs/en/jobs/8142720/director-of-marketing-strategy/ | Dropbox | Director of Marketing Strategy
+- [ ] https://www.dropbox.jobs/en/jobs/8096461/director-of-media-strategy-activation-paid-media/ | Dropbox | Director of Media Strategy & Activation, Paid Media
+- [ ] https://jobs.ashbyhq.com/jiga/8b849833-c7ef-4638-8318-f4303e618498 | Jiga
+- [ ] https://careers.thumbtack.com/jobs/f4b2823d-ab17-465d-b246-c0e3629f4a30 | Thumbtack
+- [ ] https://jobs.ashbyhq.com/vanta/0b61d6ac-14a1-4cbf-9613-a8b69bd126e2 | Vanta
+- [ ] https://jobs.thermofisher.com/global/en/job/R-01358226/Sr-Manager-Americas-Regional-Marketing-Clinical-Next-Generation-Sequencing | Thermo Fisher Scientific | Sr Manager, Americas Regional Marketing (Clinical NGS)
+- [ ] https://jobs.thermofisher.com/global/en/job/R-01360882/Senior-Manager-Global-Market-Development | Thermo Fisher Scientific | Senior Manager, Global Market Development
+- [ ] https://stripe.com/careers/listing/enterprise-paid-digital-marketing-manager/7617049 | Stripe | Enterprise Paid Digital Marketing Manager
+- [ ] https://www.governmentjobs.com/careers/sandiego/jobs/5404364/community-development-specialist-iii | City of San Diego | Community Development Specialist III
+- [ ] https://jobs.ashbyhq.com/duck-duck-go/f8570953-8ea3-4955-bfbf-dd67a56df5f5 | DuckDuckGo
+- [ ] https://careers.petco.com/job/san-diego/seasonal-campaign-manager/47428/100386714656 | Petco | Seasonal Campaign Manager
+- [ ] https://careers.petco.com/job/san-diego/manager-integrated-marketing-petco-love/47428/96235448784 | Petco | Manager, Integrated Marketing (Petco Love)
+- [ ] https://employment.ucsd.edu/sr-comms-manager-systemwide-initiative-hybrid-141049/job/581A7C7E4BCD7E58C5E4DC9C4C9566FF | UC San Diego | Sr. Communications Manager, Systemwide Initiative (Hybrid)
+- [ ] https://www.linkedin.com/jobs/view/4446264999/
+- [ ] https://www.linkedin.com/jobs/view/4461410269/
+- [ ] https://www.linkedin.com/jobs/view/4383031550/
+- [ ] https://www.linkedin.com/jobs/view/4460045676/
+- [ ] https://www.linkedin.com/jobs/view/4460675275/
+- [ ] https://www.linkedin.com/jobs/view/4443621088/
+- [ ] https://www.linkedin.com/jobs/view/4443425257/
+- [ ] https://www.linkedin.com/jobs/view/4445191508/
+- [ ] https://www.linkedin.com/jobs/view/4454552290/
+- [ ] https://www.linkedin.com/jobs/view/4453121969/
+- [ ] https://www.linkedin.com/jobs/view/4457809557/
+- [ ] https://www.linkedin.com/jobs/view/4455482804/
+- [ ] https://www.linkedin.com/jobs/view/4446958422/
+- [ ] https://www.linkedin.com/jobs/view/4456580758/
+- [ ] https://www.linkedin.com/jobs/view/4447573365/
+- [ ] https://www.linkedin.com/jobs/view/4452319018/
+- [ ] https://www.linkedin.com/jobs/view/4458503436/
+- [ ] https://www.linkedin.com/jobs/view/4458243434/
+- [ ] https://www.linkedin.com/jobs/view/4459761302/
+- [ ] https://www.linkedin.com/jobs/view/4450760911/
+- [ ] https://www.linkedin.com/jobs/view/4443961273/
+- [ ] https://www.linkedin.com/jobs/view/4427514704/
+- [ ] https://www.linkedin.com/jobs/view/4458324843/
+- [ ] https://www.linkedin.com/jobs/view/4363117613/
+- [ ] https://www.linkedin.com/jobs/view/4439875236/
+- [ ] https://www.linkedin.com/jobs/view/4460835590/
+- [ ] https://www.linkedin.com/jobs/view/4443898430/
+- [ ] https://www.linkedin.com/jobs/view/4460197352/
+- [ ] https://www.linkedin.com/jobs/view/4414652710/
+- [ ] https://www.linkedin.com/jobs/view/4438351009/
+- [ ] https://www.linkedin.com/jobs/view/4452615969/
+- [ ] https://www.linkedin.com/jobs/view/4456075183/
+- [ ] https://www.linkedin.com/jobs/view/4458227469/
+- [ ] https://www.linkedin.com/jobs/view/4443811229/
+- [ ] https://www.linkedin.com/jobs/view/4452530642/
+- [ ] https://www.linkedin.com/jobs/view/4446474034/
+- [ ] https://www.linkedin.com/jobs/view/4449112802/
+- [ ] https://www.linkedin.com/jobs/view/4447080335/
+- [ ] https://www.linkedin.com/jobs/view/4430147909/
+
+## Processed
